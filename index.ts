@@ -1,3 +1,3 @@
 import {} from 'rxjs/operators';
 
-// Type "tap" here. Notice the auto import is gray
+// Type "tap" here. Notice the auto import is struck through
